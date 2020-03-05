@@ -2,6 +2,7 @@ import cv2
 import sys
 import logging as log
 import datetime as dt
+import numpy as 
 from time import sleep
 
 cascPath = "haarcascade_frontalface_default.xml"
